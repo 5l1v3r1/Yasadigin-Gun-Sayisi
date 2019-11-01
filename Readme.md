@@ -1,4 +1,4 @@
- ### Girdiğiniz doğum tarihine göre ,bugüne kadar kaç gün yaşadığını bulan C# uygulaması
+ ### Girdiğiniz doğum tarihine göre ,bugüne kadar kaç gün yaşadığınızı bulan C# uygulaması
  
  
 <hr>
