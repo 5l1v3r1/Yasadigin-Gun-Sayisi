@@ -1,0 +1,18 @@
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\bin\Debug\YasadigimGunSayisi.exe
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\bin\Debug\YasadigimGunSayisi.pdb
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\obj\x86\Debug\YasadigimGunSayisi.csprojAssemblyReference.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\obj\x86\Debug\YasadigimGunSayisi.Properties.Resources.resources
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\obj\x86\Debug\YasadigimGunSayisi.csproj.GenerateResource.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\obj\x86\Debug\YasadigimGunSayisi.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\obj\x86\Debug\YasadigimGunSayisi.exe
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\obj\x86\Debug\YasadigimGunSayisi.pdb
+C:\Users\Ramazan Tori\Desktop\Github Paylaş\YasadigimGunSayisi\DATETİME yaşadığımızgünsayısı\obj\x86\Debug\YasadigimGunSayisi.Form1.resources
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\bin\Debug\YasadigimGunSayisi.exe
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\bin\Debug\YasadigimGunSayisi.pdb
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\obj\x86\Debug\YasadigimGunSayisi.csprojAssemblyReference.cache
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\obj\x86\Debug\YasadigimGunSayisi.Form1.resources
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\obj\x86\Debug\YasadigimGunSayisi.Properties.Resources.resources
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\obj\x86\Debug\YasadigimGunSayisi.csproj.GenerateResource.cache
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\obj\x86\Debug\YasadigimGunSayisi.csproj.CoreCompileInputs.cache
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\obj\x86\Debug\YasadigimGunSayisi.exe
+E:\Github Paylaş\YasadigimGunSayisi\YasadigimGunSayisi\obj\x86\Debug\YasadigimGunSayisi.pdb
