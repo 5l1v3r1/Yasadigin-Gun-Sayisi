@@ -1,4 +1,4 @@
- ### C# ile kodlanmış , kayan yazı uygulaması
+ ### Girdiğiniz doğum tarihine göre ,bugüne kadar kaç gün yaşadığını bulan C# uygulaması
  
  
 <hr>
