@@ -6,6 +6,5 @@
 
 ### Uygulama Görüntüsü
 
-![KayanYazi](https://user-images.githubusercontent.com/25087769/68035478-c3d08600-fcd4-11e9-9b96-b2a0c2d14a46.PNG)
-
+![KacGundur](https://user-images.githubusercontent.com/25087769/68044128-c5577980-fce7-11e9-8863-462a29ee232c.PNG)
 
